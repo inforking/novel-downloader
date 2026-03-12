@@ -1,0 +1,5 @@
+{
+  "name": "Novel Downloader",
+  "description": "A web scraper to download novels chapter by chapter as a ZIP of text files.",
+  "requestFramePermissions": []
+}
